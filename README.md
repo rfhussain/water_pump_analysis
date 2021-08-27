@@ -18,21 +18,21 @@ see documentation [here](myLib/README.md)
 	
 	
 	
-### 2- Feature Selection(feature_set_selection.ipynb)
+### 2- [Feature Selection](feature_set_selection.ipynb)
 
 	- Use the based Random Forest Model
 	- Test the base model with all the feature sets created during analysis
 	- Selection of the best Feature Set for the Model Optimization
 	
 	
-### 3- Model Selection(model_selection.ipynb)
+### 3- [Model Selection](model_selection.ipynb)
 
 	- Select the best feature set
 	- Apply various optimiation techniques on the Model
 	- Try to improve the accuracy
 
 
-### 4- Prediction & Submission(model_prediction.ipynb)	
+### 4- [Prediction & Submission](model_prediction.ipynb)	
 
 	- Select the Best Optimized Model
 	- Select the best Feature Set
