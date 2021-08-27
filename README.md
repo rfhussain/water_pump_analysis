@@ -36,6 +36,8 @@ I have organized my work the following way
 ### 4- Prediction & Submission
 
 	- [Submission & Prediction](model_prediction.ipynb)
+	- [The Source File](/model_prediction.ipynb)	
+	- [The Source File](/source/movie_sim-1m.py)
 	- Select the Best Optimized Model
 	- Select the best Feature Set
 	- Get the Prediction on the Test Set
