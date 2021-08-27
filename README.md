@@ -5,6 +5,8 @@ This is a data science competition that has been hosted on https://www.drivendat
 
 The files are organiated the following way
 
+see documentation [here](myLib/README.md)
+
 ### 1- Data Analysis
 
 	
