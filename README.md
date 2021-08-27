@@ -9,11 +9,6 @@ see documentation [here](myLib/README.md)
 
 ### 1- [Data Analysis](water_pump_analysis.ipynb)
 
-	- [Water Pump Analysis](myLib/README.md)
-	- [Water Pump Analysis](water_pump_analysis/water_pump_analysis.ipynb)
-	- ['Water Pump Analysis'](water_pump_analysis.ipynb)
-	- [Data Analysis](water_pump_analysis.ipynb)
-	[Data Analysis](water_pump_analysis.ipynb)
 	- Analysis of the data
 	- Inspection of different features
 	- Identifying different patterns in the data	
@@ -23,28 +18,22 @@ see documentation [here](myLib/README.md)
 	
 	
 	
-### 2- Feature Selection
+### 2- Feature Selection(feature_set_selection.ipynb)
 
-	
-	- ['Feature Selection'](/feature_set_selection.ipynb)
 	- Use the based Random Forest Model
 	- Test the base model with all the feature sets created during analysis
 	- Selection of the best Feature Set for the Model Optimization
 	
 	
-### 3- Model Selection
+### 3- Model Selection(model_selection.ipynb)
 
-	
-	- ['Model Selection'](#model_selection.ipynb)
 	- Select the best feature set
 	- Apply various optimiation techniques on the Model
 	- Try to improve the accuracy
 
 
-### 4- Prediction & Submission
+### 4- Prediction & Submission(model_prediction.ipynb)	
 
-	
-	*['Submission & Prediction'](#model_prediction.ipynb)	
 	- Select the Best Optimized Model
 	- Select the best Feature Set
 	- Get the Prediction on the Test Set
