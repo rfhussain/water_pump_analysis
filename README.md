@@ -9,7 +9,8 @@ see documentation [here](myLib/README.md)
 
 ### 1- Data Analysis
 
-	
+	- [Water Pump Analysis](myLib/README.md)
+	- [Water Pump Analysis](water_pump_analysis.ipynb)
 	- ['Water Pump Analysis'](water_pump_analysis.ipynb)
 	- Analysis of the data
 	- Inspection of different features
