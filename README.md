@@ -7,11 +7,13 @@ The files are organiated the following way
 
 see documentation [here](myLib/README.md)
 
-### 1- [Data Analysis](water_pump_analysis/water_pump_analysis.ipynb)
+### 1- [Data Analysis](water_pump_analysis.ipynb)
 
 	- [Water Pump Analysis](myLib/README.md)
 	- [Water Pump Analysis](water_pump_analysis/water_pump_analysis.ipynb)
 	- ['Water Pump Analysis'](water_pump_analysis.ipynb)
+	- [Data Analysis](water_pump_analysis.ipynb)
+	[Data Analysis](water_pump_analysis.ipynb)
 	- Analysis of the data
 	- Inspection of different features
 	- Identifying different patterns in the data	
