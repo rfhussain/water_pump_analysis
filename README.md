@@ -1,11 +1,7 @@
 # Water Pump Analysis
 
 This is a data science competition that has been hosted on https://www.drivendata.org/
-
-
 The files are organiated the following way
-
-see documentation [here](myLib/README.md)
 
 ### 1- [Data Analysis](water_pump_analysis.ipynb)
 
