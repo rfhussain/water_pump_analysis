@@ -21,9 +21,9 @@ The files are organiated the following way
 	- Selection of the best Feature Set for the Model Optimization
 	
 	
-### 3- [Model Selection](model_selection.ipynb)
-### 4- [Model Selection](model_selection_1.ipynb)
-### 5- [Model Selection](model_selection_2.ipynb)
+### 3- [Model Selection-1](model_selection.ipynb)
+### 4- [Model Selection-2](model_selection_1.ipynb)
+### 5- [Model Selection-3](model_selection_2.ipynb)
 
 	- Select the best feature set
 	- Apply various optimiation techniques on the Model
