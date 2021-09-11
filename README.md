@@ -22,17 +22,22 @@ The files are organiated the following way
 	
 	
 ### 3- [Model Selection](model_selection.ipynb)
+### 4- [Model Selection](model_selection_1.ipynb)
+### 5- [Model Selection](model_selection_2.ipynb)
 
 	- Select the best feature set
 	- Apply various optimiation techniques on the Model
 	- Try to improve the accuracy
-
+	- Dealing with the class imbalance
+	
 
 ### 4- [Prediction & Submission](model_prediction.ipynb)	
 
 	- Select the Best Optimized Model
 	- Select the best Feature Set
 	- Get the Prediction on the Test Set
+	- Employ Weighted Classifiers for Submissions due to class Imbalance
+	- Employ Averaging technique, by selecting the best classifiers
 	- Generate the Submission File for submission on the Site
 	- Saving the Score Logs
 	
